@@ -1,0 +1,13 @@
+riskiest declined,approach,"fewer defaults per 10,000 loans","gain per 10,000 loans ($)"
+10%,XGBoost + TF-IDF,6.2,51573
+10%,XGBoost + Jev,12.4,103146
+10%,XGBoost + Grayson,18.6,154719
+20%,XGBoost + TF-IDF,0.0,0
+20%,XGBoost + Jev,-3.1,-25787
+20%,XGBoost + Grayson,9.3,77360
+30%,XGBoost + TF-IDF,3.1,25787
+30%,XGBoost + Jev,-6.2,-51573
+30%,XGBoost + Grayson,9.3,77360
+50%,XGBoost + TF-IDF,21.7,180506
+50%,XGBoost + Jev,-3.1,-25787
+50%,XGBoost + Grayson,9.3,77360

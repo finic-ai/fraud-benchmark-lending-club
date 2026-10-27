@@ -1,0 +1,6 @@
+,ROC-AUC,vs XGBoost,answers added
+XGBoost,0.6809016,—,—
+TF-IDF,0.5820099999999999,"-0.0989 [-0.1310, -0.0642]",—
+XGBoost + TF-IDF,0.6844768,"+0.0036 [-0.0025, +0.0101]",—
+XGBoost + Jev,0.6870816000000001,"+0.0062 [-0.0032, +0.0156]",Does the borrower describe current financial hardship?
+XGBoost + Grayson,0.6888288,"+0.0079 [+0.0007, +0.0158]",Does the borrower describe current financial hardship?
